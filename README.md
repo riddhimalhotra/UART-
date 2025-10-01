@@ -7,11 +7,14 @@ The project demonstrates serial communication at the RTL level, including **baud
 ## 📂 Project Structure
 
 ├── uart_top.v # Top-level wrapper for TX + RX
+
 ├── uarttx.v # UART Transmitter module
+
 ├── uartrx.v # UART Receiver module
-├── uart_tb.v # Testbench
-├── runme.sh # Script to compile & run (Linux/macOS)
-└── README.md # Documentation
+
+├── uart_tb.v # Testbench for verification
+
+
 
 ## ⚙️ Features
 
