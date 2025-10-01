@@ -1,5 +1,5 @@
 # UART-
-# UART Design in Verilog
+
 
 This repository contains a simple **UART (Universal Asynchronous Receiver/Transmitter)** design written in Verilog, along with a testbench for simulation.  
 The project demonstrates serial communication at the RTL level, including **baud rate generation, transmission, and reception**.
